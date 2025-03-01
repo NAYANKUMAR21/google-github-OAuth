@@ -1,7 +1,6 @@
 # Google Github Architecture
 
 
-
 +--------+                           +----------------+  
 |  User  |                           | Google/GitHub  |  
 +--------+                           |  Authorization |  
