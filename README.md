@@ -1,6 +1,5 @@
 # Google Github Architecture
 
-
 +--------+                           +----------------+  
 |  User  |                           | Google/GitHub  |  
 +--------+                           |  Authorization |  
@@ -28,5 +27,3 @@
      |                               |  Resource     |  
      | User Data (JSON)              |    Server     |  
      |<------------------------------+----------------+  
-
-
